@@ -6,7 +6,7 @@
 ---
 <p align="center">
   <p align="center">
-  <img src="https://raw.githubusercontent.com/nghoang110/nghoang110/main/assets/banner-me.png" alt="Nguyen Huy Hoang - Banner" />
+  <img src="[https://raw.githubusercontent.com/nghoang110/nghoang110/main/assets/banner-me.png](https://raw.githubusercontent.com/nghoang110/nghoang110/blob/main/banner-me.png)" alt="Nguyen Huy Hoang - Banner" />
 </p>
 
 </p>
