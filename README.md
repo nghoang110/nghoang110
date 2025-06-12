@@ -4,6 +4,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="assets/banner-me.png" alt="Nguyen Huy Hoang - Banner" />
+</p>
 
 
 ### 🛠️ Languages and Tools:
