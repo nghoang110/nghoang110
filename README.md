@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-stack+Developer;React+%7C+NextJS+%7C+NodeJS+%7C+MongoDB" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nguyen+Huy+Hoang+%F0%9F%91%8B;Full-stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;I+love+building+modern+web+apps!" alt="Typing SVG" />
+</p>
 
 ---
 
