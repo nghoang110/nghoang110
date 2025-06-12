@@ -22,5 +22,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nghoang110&theme=dark" />
 </p>
 
-### Link Facebook
-https://www.facebook.com/nhhoag110
+### 📫 Connect With Me
+<p>
+  <a href="mailto:huyhoang203203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/nhhoag110" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
