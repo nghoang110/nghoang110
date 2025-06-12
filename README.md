@@ -2,7 +2,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-stack+Developer;React+%7C+NextJS+%7C+NodeJS+%7C+MongoDB" />
 </p>
-I’m a passionate full-stack developer based in Vietnam, who enjoys turning complex problems into elegant code. I'm currently focusing on React, Next.js, and backend services with Node.js and MongoDB.
+<p align="center" style="font-size:16px; max-width:700px; margin:auto; line-height:1.6; color:#ccc;">
+  <em>
+    I’m a passionate <strong>full-stack developer</strong> based in Vietnam, who enjoys turning complex problems into elegant code.<br/>
+    I'm currently focusing on <strong>React</strong>, <strong>Next.js</strong>, and backend services with <strong>Node.js</strong> and <strong>MongoDB</strong>.
+  </em>
+</p>
+
 ---
 
 <p align="center">
