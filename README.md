@@ -4,13 +4,12 @@
 </p>
 
 ---
+
 <p align="center">
-  <p align="center">
-  <img src="[https://raw.githubusercontent.com/nghoang110/nghoang110/main/assets/banner-me.png](https://raw.githubusercontent.com/nghoang110/nghoang110/blob/main/banner-me.png)" alt="Nguyen Huy Hoang - Banner" />
+  <img src="https://raw.githubusercontent.com/nghoang110/nghoang110/main/assets/banner-me.png" alt="Nguyen Huy Hoang - Banner" />
 </p>
 
-</p>
-
+---
 
 ### 🛠️ Languages and Tools:
 <p>
@@ -24,7 +23,6 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats:
@@ -33,6 +31,8 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nghoang110&theme=dark" />
 </p>
+
+---
 
 ### 📫 Connect With Me
 <p>
